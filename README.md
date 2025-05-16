@@ -69,4 +69,4 @@ RegisterNumber:212224230265
 
 **RESULTS**
 
-SISO Shift Register using verilog and validating their functionality using their functional tables are verified.
+Thus,SISO Shift Register using verilog and validating their functionality using their functional tables are verified.
