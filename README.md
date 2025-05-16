@@ -1,3 +1,6 @@
+## Name: SHREEDHAR KUMAR K.J
+## RegisterNumber: 212224230265
+
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
 
 **AIM:**
@@ -51,12 +54,6 @@ q[3] <= q[2];
 end
 endmodule
 ```
-Developed by:  SHREEDHAR KUMAR K.J
-RegisterNumber:212224230265
-
-
-
-
 **RTL LOGIC FOR SISO Shift Register**
 
 ![image](https://github.com/user-attachments/assets/e1fff7b5-2bd1-4135-b683-7ebb47dbbc12)
@@ -67,6 +64,6 @@ RegisterNumber:212224230265
 ![image](https://github.com/user-attachments/assets/5fdfe5e2-f9af-4f31-8a40-3c393d2be833)
 
 
-**RESULTS**
+**RESULTS:**
 
 Thus,SISO Shift Register using verilog and validating their functionality using their functional tables are verified.
